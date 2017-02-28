@@ -1,0 +1,14 @@
+{
+	"name": "Pickaxe Fix",
+	"description": "Fixes the level 45 Pickaxe.\r\n\r\n- harvest amount is now on par with other steel tools\r\n- can harvest both bark and branch\r\n- durability increased slighly above the steel pick\r\n- changed repair mats needed from leather to thick leather\r\n\r\nKnown issues:\r\n-slight (1%) chance of harvesting less. This is not likely gonna change as the tradeoff is performance.\r\n\r\nModded tables:\r\n- ItemNameToTemplateID\r\n- LootTable:Resource\r\n- ResourceStatTable\r\n- ItemTable\r\n\r\nVersion 2.0.0\r\n- Fix for missing table links. Rocknoses now drop Crystal for pickaxes, yay.\r\n\r\nVersion 1.0.0\r\n- Initial upload",
+	"changeNote": "Version 2.0.0\r\n- Fix for missing table links. Rocknoses now drop Crystal for pickaxes, yay.",
+	"author": "Rattenmann",
+	"authorUrl": "http://steamcommunity.com/id/rattenmannXXL",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "868955156",
+	"steamVisibility": 1,
+	"folderName": "PickaxeFix"
+}
